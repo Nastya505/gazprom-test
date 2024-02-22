@@ -1,3 +1,5 @@
+DEMO: https://nastya505.github.io/gazprom-test/
+
 В ходе данного тестового задания мне удалось реализовать небольшое React-приложение с использованием библиотеки [**echarts.js**](https://echarts.apache.org/en/index.html) и библиотеки компонентов [**Consta UI Kit**](https://consta.design/libs/uikit).
 
 В приложении присутствуют:
